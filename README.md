@@ -77,17 +77,15 @@ CREATE PROJECT : npx create-react-app fb-clone
 DELETE UNWANTED STUFFS FROM PROJECT FOLDER : Delete unwanted files and thier dependencies
 delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js as well
 
-
 3rd PARTY PLUGIN
 
-  Install Material UI(For icons and components)
-    npm install @material-ui/core
-    npm install @material-ui/icons
+      Install Material UI(For icons and components)
+        npm install @material-ui/core
+        npm install @material-ui/icons
 
-  Install React flip move(For smooth transions)
-    npm i -S react-flip-move
-
-
+      Install React flip move(For smooth transions)
+        npm i -S react-flip-move
+    
 DATABASE & DEPLOYMENT
   > npm i firebase
   > npm install -g firebase-tools
