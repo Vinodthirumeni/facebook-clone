@@ -79,12 +79,14 @@ delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js
 
 
 3rd PARTY PLUGIN
+
   Install Material UI(For icons and components)
     npm install @material-ui/core
     npm install @material-ui/icons
 
   Install React flip move(For smooth transions)
     npm i -S react-flip-move
+
 
 DATABASE & DEPLOYMENT
   > npm i firebase
